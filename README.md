@@ -2,7 +2,7 @@
 
 A modern, full-stack blog application with user authentication, CRUD operations, and a responsive UI built with React and Node.js.
 
-![Blog App Screenshot](https://via.placeholder.com/800x400?text=Blog+App+Screenshot)
+![Blog App Screenshot](https://raw.githubusercontent.com/ShivamNox/FullStack-Blog-Assignment/refs/heads/main/Screenshot%202026-01-20%20103928.png)
 
 ## ✨ Features
 
