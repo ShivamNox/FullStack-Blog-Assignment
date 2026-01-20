@@ -2,7 +2,7 @@
 
 A modern, full-stack blog application with user authentication, CRUD operations, and a responsive UI built with React and Node.js.
 
-![Blog App Screenshot](https://raw.githubusercontent.com/ShivamNox/FullStack-Blog-Assignment/refs/heads/main/Screenshot%202026-01-20%20103928.png)
+![Blog App Screenshot](https://raw.githubusercontent.com/ShivamNox/FullStack-Blog-Assignment/refs/heads/main/SS/Screenshot%202026-01-20%20103928.png)
 
 ## ✨ Features
 
@@ -322,19 +322,19 @@ Authorization: Bearer <token>
 ## 📱 Screenshots
 
 ### Home Page
-![Home](https://via.placeholder.com/400x300?text=Home+Page)
+![Home](https://raw.githubusercontent.com/ShivamNox/FullStack-Blog-Assignment/refs/heads/main/SS/Screenshot%202026-01-20%20103928.png)
 
 ### Post Detail
-![Post Detail](https://via.placeholder.com/400x300?text=Post+Detail)
+![Post Detail](https://raw.githubusercontent.com/ShivamNox/FullStack-Blog-Assignment/refs/heads/main/SS/Screenshot%202026-01-20%20110514.png)
 
 ### Create Post
-![Create Post](https://via.placeholder.com/400x300?text=Create+Post)
+![Create Post](https://raw.githubusercontent.com/ShivamNox/FullStack-Blog-Assignment/refs/heads/main/SS/Screenshot%202026-01-20%20110533.png)
 
 ### My Posts
-![My Posts](https://via.placeholder.com/400x300?text=My+Posts)
+![My Posts](https://raw.githubusercontent.com/ShivamNox/FullStack-Blog-Assignment/refs/heads/main/SS/Screenshot%202026-01-20%20110550.png)
 
 ### Login
-![Login](https://via.placeholder.com/400x300?text=Login)
+![Login](https://raw.githubusercontent.com/ShivamNox/FullStack-Blog-Assignment/refs/heads/main/SS/Screenshot%202026-01-20%20110606.png)
 
 ## 🧪 Testing with Postman
 
