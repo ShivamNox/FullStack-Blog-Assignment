@@ -382,13 +382,6 @@ Body: { "title": "Test Post", "content": "This is test content that is at least 
 |----------|-------------|---------|
 | VITE_API_URL | Backend API URL | http://localhost:5000/api |
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing`)
-5. Open a Pull Request
 
 ## 📄 License
 
@@ -396,7 +389,7 @@ This project is licensed under the MIT License.
 
 ## 👨‍💻 Author
 
-Your Name - [@yourusername](https://github.com/yourusername)
+Your Name - [@ShivamNox](https://github.com/shivamnox)
 
 ---
 
