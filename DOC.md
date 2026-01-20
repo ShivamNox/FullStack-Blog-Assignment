@@ -8,8 +8,8 @@ A full-stack blog application with authentication, CRUD operations, and responsi
 
 ```bash
 # 1. Clone & Install
-git clone <repo-url>
-cd blog-app
+git clone https://github.com/ShivamNox/FullStack-Blog-Assignment
+cd FullStack-Blog-Assignment
 npm install
 
 # 2. Setup Environment
@@ -17,8 +17,8 @@ cp .env.example .env
 # Add your MongoDB URI and JWT secret
 
 # 3. Build & Run
-cd client && npm run build && cd ..
-npm start
+npm run build
+node server.js
 ```
 
 **Demo Login:** `demo@example.com` / `password123`
